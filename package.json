@@ -1,0 +1,19 @@
+{
+  "name": "vscodejs",
+  "version": "1.0.0",
+  "description": "first code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "yes",
+    "code"
+  ],
+  "author": "mohd talha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1"
+  }
+}
